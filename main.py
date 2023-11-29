@@ -36,7 +36,7 @@ menu = True
 while menu:
     os.system('cls' if os.name == 'nt' else 'clear')
     print("\n\tWELCOME TO BILL CALCULATING SYSTEM")
-    print("My student id is ")
+    print("My student id is 23Y390001")
     print("Enter your choice")
     print("Press 1 to display the bill of slab1 and slab 2.")
     print("Press 2 to display the bill of slab3.")
